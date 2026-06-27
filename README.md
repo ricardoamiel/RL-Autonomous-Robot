@@ -7,6 +7,21 @@ Navegación autónoma con evasión de obstáculos usando **Advantage Actor-Criti
 
 ---
 
+## Muestras del funcionamiento
+
+<table>
+  <tr>
+    <td align="center"><img src="imgs/goal.png" alt="Goal" width="320"></td>
+    <td align="center"><img src="imgs/goal2.png" alt="Goal 2" width="320"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="imgs/multiple-obstacles.png" alt="Multiple obstacles" width="320"></td>
+    <td align="center"><img src="imgs/trajectories.png" alt="Trajectories" width="320"></td>
+  </tr>
+</table>
+
+---
+
 ## Estructura del repositorio
 
 ```
