@@ -3,7 +3,7 @@
 
 Navegación autónoma con evasión de obstáculos usando **Advantage Actor-Critic (A2C)** entrenado en simulación pura y desplegado en Gazebo Harmonic con corrección interactiva via **DAgger**.
 
-**Demo**: https://drive.google.com/drive/folders/1B9fmxhI6fptCRY4967GAo6sUedK0XVJ8?usp=sharing
+**Demo and Manuscript**: https://drive.google.com/drive/folders/1B9fmxhI6fptCRY4967GAo6sUedK0XVJ8?usp=sharing
 
 ---
 
